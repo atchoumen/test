@@ -1,5 +1,5 @@
 <?php
 
-echo 'merge meeeeee';
+echo 'merge me';
 echo 'new line write online';
 
